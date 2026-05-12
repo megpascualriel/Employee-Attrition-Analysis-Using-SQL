@@ -9,8 +9,11 @@ This project explores why employees leave by analyzing patterns across:
 Departments
 
 Job roles
+
 Compensation quartiles
+
 Satisfaction metrics
+
 Stress indicators
 
 All analysis was performed using MySQL, and results were exported as CSV files for transparency and reproducibility.
