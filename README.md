@@ -6,15 +6,11 @@ This project demonstrates SQL skills in data cleaning, table design, exploratory
 ## Project Overview
 This project explores why employees leave by analyzing patterns across:
 
-Departments
-
-Job roles
-
-Compensation quartiles
-
-Satisfaction metrics
-
-Stress indicators
+- Departments
+- Job roles
+- Compensation quartiles
+- Satisfaction metrics
+- Stress indicators
 
 All analysis was performed using MySQL, and results were exported as CSV files for transparency and reproducibility.
 
@@ -23,12 +19,12 @@ All analysis was performed using MySQL, and results were exported as CSV files f
 Output/
 Contains all exported results, including:
 
-Attrition by department
-Attrition by job role
-Attrition by compensation quartile
-Attrition by satisfaction (environment, job, relationship)
-Attrition by stress factors (overtime, distance from home, work‑life balance, business travel)
-Split tables: Employees_Basics and Employees_Details
+- Attrition by department
+- Attrition by job role
+- Attrition by compensation quartile
+- Attrition by satisfaction (environment, job, relationship)
+- Attrition by stress factors (overtime, distance from home, work‑life balance, business travel)
+- Split tables: Employees_Basics and Employees_Details
 
 SQL Queries/
 Contains all SQL scripts used in the project:
