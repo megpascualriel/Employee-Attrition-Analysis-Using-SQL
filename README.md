@@ -1,6 +1,7 @@
 # Employee Attrition Analysis Using SQL
 
 A structured SQL project analyzing key drivers of employee attrition using the IBM HR Analytics dataset.
+
 This project demonstrates SQL skills in data cleaning, table design, exploratory analysis, and insight generation.
 
 ## Project Overview
@@ -17,6 +18,7 @@ All analysis was performed using MySQL, and results were exported as CSV files f
 ## Repository Structure
 
 Output/
+
 Contains all exported results, including:
 
 - Attrition by department
@@ -27,11 +29,12 @@ Contains all exported results, including:
 - Split tables: Employees_Basics and Employees_Details
 
 SQL Queries/
+
 Contains all SQL scripts used in the project:
 
-Database creation
-Table creation (split into Basic + Details)
-All analysis queries (department, job role, compensation, satisfaction, stress, etc.)
+- Database creation
+- Table creation (split into Basic + Details)
+- All analysis queries (department, job role, compensation, satisfaction, stress, etc.)
 
 ## Data Preparation
 The original IBM dataset was split into two relational tables:
