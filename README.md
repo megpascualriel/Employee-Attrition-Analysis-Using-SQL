@@ -48,20 +48,15 @@ This structure improves clarity and mirrors real‑world HR data modeling.
 
 ## Key Analyses Performed
 
-1. Attrition by Department
-Identifies which departments experience the highest turnover.
+1. Attrition by Department - Identifies which departments experience the highest turnover.
 
-2. Attrition by Job Role
-Highlights roles with the greatest attrition risk.
+2. Attrition by Job Role - Highlights roles with the greatest attrition risk.
 
-3. Compensation Quartile Analysis
-Uses NTILE(4) to group employees into income quartiles and compare attrition rates.
+3. Compensation Quartile Analysis - Uses NTILE(4) to group employees into income quartiles and compare attrition rates.
 
-4. Satisfaction Analysis
-Examines how satisfaction levels (environment, job, relationship) correlate with attrition.
+4. Satisfaction Analysis - Examines how satisfaction levels (environment, job, relationship) correlate with attrition.
 
-5. Stress Factor Analysis
-Evaluates the impact of Overtime, Distance from home, Work‑life balance and Business travel on attrition likelihood.
+5. Stress Factor Analysis - Evaluates the impact of Overtime, Distance from home, Work‑life balance and Business travel on attrition likelihood.
 
 
 ## Summary of Insights
@@ -77,9 +72,9 @@ A few high‑level findings from the analysis:
 
 ## Tools & Technologies
 
-MySQL — data cleaning, querying, analysis
-CSV exports — output storage
-GitHub — version control and project documentation
+- MySQL — data cleaning, querying, analysis
+- CSV exports — output storage
+- GitHub — version control and project documentation
 
 
 
