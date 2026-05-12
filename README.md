@@ -3,7 +3,7 @@
 A structured SQL project analyzing key drivers of employee attrition using the IBM HR Analytics dataset.
 This project demonstrates SQL skills in data cleaning, table design, exploratory analysis, and insight generation.
 
-##⭐Project Overview
+## Project Overview
 This project explores why employees leave by analyzing patterns across:
 
 Departments
@@ -15,7 +15,7 @@ Stress indicators
 
 All analysis was performed using MySQL, and results were exported as CSV files for transparency and reproducibility.
 
-📁 Repository Structure
+## Repository Structure
 
 Output/
 Contains all exported results, including:
@@ -34,7 +34,7 @@ Database creation
 Table creation (split into Basic + Details)
 All analysis queries (department, job role, compensation, satisfaction, stress, etc.)
 
-🧱 Data Preparation
+## Data Preparation
 The original IBM dataset was split into two relational tables:
 
 employees_basic → demographic + categorical attributes
@@ -44,7 +44,7 @@ employees_details → numeric + satisfaction + compensation attributes
 This structure improves clarity and mirrors real‑world HR data modeling.
 
 
-🔍 Key Analyses Performed
+## Key Analyses Performed
 
 1. Attrition by Department
 Identifies which departments experience the highest turnover.
@@ -62,7 +62,7 @@ Examines how satisfaction levels (environment, job, relationship) correlate with
 Evaluates the impact of Overtime, Distance from home, Work‑life balance and Business travel on attrition likelihood.
 
 
-📈 Summary of Insights
+## Summary of Insights
 A few high‑level findings from the analysis:
 
 - Lower compensation quartiles show significantly higher attrition.
@@ -73,7 +73,7 @@ A few high‑level findings from the analysis:
 - Sale department has the highest rate of attrition.
 
 
-🛠️ Tools & Technologies
+## Tools & Technologies
 
 MySQL — data cleaning, querying, analysis
 CSV exports — output storage
