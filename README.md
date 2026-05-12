@@ -78,7 +78,7 @@ A few high‑level findings from the analysis:
 
 
 
-✨ Future Improvements
+## Future Improvements
 
-Build a Power BI or Tableau dashboard using the Output CSVs
-Add visualizations for compensation quartiles, satisfaction trends, and stress indicators
+- Build a Power BI or Tableau dashboard using the Output CSVs
+- Add visualizations for compensation quartiles, satisfaction trends, and stress indicators
