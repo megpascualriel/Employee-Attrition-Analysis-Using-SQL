@@ -3,7 +3,7 @@
 A structured SQL project analyzing key drivers of employee attrition using the IBM HR Analytics dataset.
 This project demonstrates SQL skills in data cleaning, table design, exploratory analysis, and insight generation.
 
-##⭐ Project Overview
+## Project Overview
 This project explores why employees leave by analyzing patterns across:
 
 Departments
