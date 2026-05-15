@@ -36,6 +36,19 @@ Contains all SQL scripts used in the project:
 - Table creation (split into Basic + Details)
 - All analysis queries (department, job role, compensation, satisfaction, stress, etc.)
 
+Charts/
+
+Contains all visual outputs of analysis results generated via Tabeau, including:
+
+- Attrition by Department
+- Attrition by Job Role
+- Attrition vs Overtime
+- Attrition vs Travel Frequency
+- Attrition by Distance from Home
+- Attrition by Satisfaction Levels
+- Attrition vs Monthly Compensation
+
+
 ## Data Preparation
 The original IBM dataset was split into two relational tables:
 
@@ -74,11 +87,6 @@ A few high‑level findings from the analysis:
 
 - MySQL — data cleaning, querying, analysis
 - CSV exports — output storage
+- Tableau - data visualizations
 - GitHub — version control and project documentation
 
-
-
-## Future Improvements
-
-- Build a Power BI or Tableau dashboard using the Output CSVs
-- Add visualizations for compensation quartiles, satisfaction trends, and stress indicators
